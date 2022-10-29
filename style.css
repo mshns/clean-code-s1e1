@@ -49,11 +49,13 @@
   padding: 0px;
 }
 
-.item, .subtitle {
+.item,
+.subtitle {
   list-style: none;
 }
 
-.task-input, .button{
+.task-input,
+.button{
   outline: none;
 }
 
